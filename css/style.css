@@ -122,6 +122,7 @@ body {
 .services__inner {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 }
 .services__item {
 	text-align: center;
@@ -226,7 +227,6 @@ body {
 .testimonial__inner {
 	display: flex;
 	align-items: center;
-	/* justify-content: space-between; */
 }
 .testimonial__item {
 	display: flex;
